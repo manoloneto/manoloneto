@@ -1,0 +1,3 @@
+[![Gmail Badge](https://img.shields.io/badge/-mail@jayraj.co.in-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mano.afonso93@gmail.com)](mailto:mano.afonso93@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-JayrajRoshan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manoel-afonso-14496835/)](https://www.linkedin.com/in/manoel-afonso-14496835/)
+[![Instagram Badge](https://img.shields.io/badge/-roshanjayraj-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/realAfonso/)](https://www.instagram.com/realAfonso/)
