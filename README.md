@@ -4,12 +4,12 @@
 [![Instagram Badge](https://img.shields.io/badge/-@realAfonso-833AB4?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/realAfonso/)](https://www.instagram.com/realAfonso/)
 [![YouTube Badge](https://img.shields.io/badge/-Manoel_Afonso-FF0000?style=flat-square&logo=YouTube&logoColor=white&link=https://www.youtube.com/channel/UCsG0mu1GuL_ZhaBfrbTyxcQ)](https://www.youtube.com/channel/UCsG0mu1GuL_ZhaBfrbTyxcQ)
 
-<p >
-  <img height="50%" width="50%" src ="https://github-readme-stats.vercel.app/api?username=aveek-saha&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+<div float='left'>
+    <img height="50%" width="50%" src ="https://github-readme-stats.vercel.app/api?username=aveek-saha&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+</div>
+<div float='left'>
   <img height="50%" width="50%" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=aveek-saha&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=aveek-saha&theme=darcula&hide_border=true&background=FFFFFF00">
-  <br>
-</p>
+</div>
 
 
 **Aveek-Saha/aveek-saha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
