@@ -8,8 +8,6 @@
 - 💬 Sempre estudando sobre liderança e gestão de pessoas <3
 - ⚡ Fun fact: Coleciono vídeo games, mas não tenho tempo para jogar nada :(
 
-<img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=realAfonso&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
-
 ## Entre em contato
 [![Gmail Badge](https://img.shields.io/badge/-e--mail-DB4437?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mano.afonso93@gmail.com)](mailto:mano.afonso93@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manoel-afonso-14496835/)](https://www.linkedin.com/in/manoel-afonso-14496835/)
